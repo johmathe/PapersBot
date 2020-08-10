@@ -15,7 +15,6 @@ import os
 import random
 import re
 import sys
-import tempfile
 import time
 import urllib
 import yaml
